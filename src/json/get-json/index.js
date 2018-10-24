@@ -2,7 +2,8 @@ let begin = require('@architect/functions')
 
 // TODO change defaultJSON
 let defaultJSON = {
-  ok: true
+  ok: true,
+  wow: true
 }
 
 function route (req, res) {
